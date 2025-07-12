@@ -162,4 +162,3 @@ print(f"Reversed {original}: {reversed_list}")
 print(f"Common elements: {common}")
 
 print("\n🎉 Day 2 Complete! You've mastered lists and loops!")
-print("💡 Next: Day 3 - Dictionaries and Functions")
